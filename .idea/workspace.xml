@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bec1bdb3-db56-479e-8a77-5c007137bfaa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newsmap/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/luminare/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/luminare/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newsmap/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/newsmap/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/luminare/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+            <state relative-caret-position="368">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#632#664#0" expanded="true" />
               </folding>
@@ -124,7 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="557" y="191" width="1400" height="996" extended-state="0" />
+    <frame x="527" y="76" width="1400" height="996" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -162,8 +159,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/luminare/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#632#664#0" expanded="true" />
           </folding>
