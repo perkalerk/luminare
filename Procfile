@@ -1,0 +1,1 @@
+web: gunicorn luminare.wsgi --log-file -
